@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161977193338",
+    "project_id": "fitnessprogresstracker-31524",
+    "storage_bucket": "fitnessprogresstracker-31524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161977193338:android:1a10044188acf1d5f33cc3",
+        "android_client_info": {
+          "package_name": "com.example.fitnessprogresstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqBGhdYxf-yzNBhMIeD6CfpEk6ezIYto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
